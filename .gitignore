@@ -1,5 +1,6 @@
 
 ###> symfony/framework-bundle ###
+/apache.conf
 /Dockerfile
 /.env-template
 /.env.dev
